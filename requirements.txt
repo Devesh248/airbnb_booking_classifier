@@ -1,0 +1,9 @@
+association-metrics
+dython
+Flask
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
